@@ -1,0 +1,2 @@
+# leekotlin
+about kotlin.
